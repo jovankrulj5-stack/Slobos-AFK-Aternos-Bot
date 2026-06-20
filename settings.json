@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jovan987655.aternos.me:62929",
+    "ip": "moonfish.aternos.host:62929",
     "port": 62929,
     "version": "",
     "try-creative": false
